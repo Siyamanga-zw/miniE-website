@@ -1,0 +1,15 @@
+
+
+#exampleFormControlTextarea1{
+    border:1px solid black;
+}
+#exampleFormControlInput1{
+    border:1px solid black;
+}
+@media only screen and (max-width: 700px){
+    #contact .row{
+        display: grid;
+        }
+}
+
+
